@@ -17,7 +17,7 @@ In this project it was used React  develop my skills with the framework's variou
 
 
 <p align="center">
-  <img alt="License" src="https://github.com/p4peldebala/SecretWord_UsingReact/issues/2#issue-1960154164">
+  <img alt="License" src="https://github.com/p4peldebala/SecretWord_UsingReact/assets/120611995/89d6e1c2-498c-4cf3-b3e1-b6df9aff5e57">
 </p>
 
 <br>
