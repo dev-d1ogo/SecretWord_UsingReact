@@ -1,9 +1,7 @@
 
 <h1 align="center"> Secret Word Game using React 📱 </h1>
 
-<p align="center">
-
-In this project it was used React  develop my skills with the framework's various hooks.
+<p align="center"> In this project it was used React  develop my skills with the framework's various hooks.>
 
  <br/>
 
